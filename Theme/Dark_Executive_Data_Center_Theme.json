@@ -1,0 +1,62 @@
+{
+    "name": "Dark Executive Data Center Theme",
+    "dataColors": [
+        "#3B82F6",
+        "#22C55E",
+        "#FACC15",
+        "#EF4444",
+        "#94A3B8",
+        "#06B6D4"
+    ],
+    "background": "#0F172A",
+    "foreground": "#E5E7EB",
+    "tableAccent": "#3B82F6",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#E5E7EB"
+                            }
+                        },
+                        "fontFamily": "Segoe UI Semibold",
+                        "fontSize": 14
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#E5E7EB"
+                            }
+                        },
+                        "fontFamily": "Segoe UI",
+                        "fontSize": 11
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#0F172A"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "fontSize": 26,
+                        "fontFamily": "Segoe UI Semibold"
+                    }
+                ]
+            }
+        }
+    }
+}
