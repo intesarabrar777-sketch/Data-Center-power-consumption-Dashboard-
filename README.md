@@ -68,4 +68,5 @@ In the gauge chart for the Bogra Data Center, DG utilization is shown to exceed 
 
 ## Author
 Abrar Noor Intesar 
-Data Center Power operation & Project co-ordinator specialist 
+(Data Center Power operation & Project co-ordinator specialist)
+
